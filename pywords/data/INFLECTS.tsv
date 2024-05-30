@@ -1,5 +1,5 @@
-infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl_gender	infl_person	infl_comparison	infl_voice	infl_mood	infl_numtype	infl_stem_id	infl_ending	infl_age	infl_frequency
-487	V	1	1		PRES	S		1		ACTIVE	IND		1	o	X	A
+infl_id	infl_pos	infl_type	infl_variant	infl_tense	infl_plurality	infl_person	infl_voice	infl_mood	infl_stem_id	infl_ending	infl_age	infl_frequency
+487	    V	        1	        1		        PRES	    S		        1		    ACTIVE	    IND		    1	            o	        X	        A
 488	V	1	1		PRES	S		2		ACTIVE	IND		2	as	X	A
 489	V	1	1		PRES	S		3		ACTIVE	IND		2	at	X	A
 490	V	1	1		PRES	P		1		ACTIVE	IND		2	amus	X	A
@@ -256,7 +256,6 @@ infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl
 741	V	3	1		IMPF	P		2		PASSIVE	SUB		2	eremini	X	A
 742	V	3	1		IMPF	P		3		PASSIVE	SUB		2	erentur	X	A
 743	V	3	1		PRES	S		2		ACTIVE	IMP		2	e	X	A
-744	V	3	1		PRES	S		2		ACTIVE	IMP		2		X	A
 745	V	3	1		PRES	P		2		ACTIVE	IMP		2	ite	X	A
 746	V	3	1		FUT	S		2		ACTIVE	IMP		2	ito	X	A
 747	V	3	1		FUT	S		3		ACTIVE	IMP		2	ito	X	A
@@ -291,7 +290,6 @@ infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl
 776	V	3	2		IMPF	P		1		PASSIVE	SUB		2	remur	X	A
 777	V	3	2		IMPF	P		2		PASSIVE	SUB		2	remini	X	A
 778	V	3	2		IMPF	P		3		PASSIVE	SUB		2	rentur	X	A
-779	V	3	2		PRES	S		2		ACTIVE	IMP		1		X	A
 780	V	3	2		PRES	P		2		ACTIVE	IMP		1	te	X	A
 781	V	3	2		PRES	S		2		PASSIVE	IMP		1	re	X	A
 782	V	3	2		PRES	P		2		PASSIVE	IMP		1	imini	X	A
@@ -523,7 +521,6 @@ infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl
 1008	V	6	1		IMPF	P		1		PASSIVE	SUB		2	remur	X	A
 1009	V	6	1		IMPF	P		2		PASSIVE	SUB		2	remini	X	A
 1010	V	6	1		IMPF	P		3		PASSIVE	SUB		2	rentur	X	A
-1011	V	6	1		PRES	S		2		ACTIVE	IMP		2		X	A
 1012	V	6	1		PRES	P		2		ACTIVE	IMP		2	te	X	A
 1013	V	6	1		FUT	S		2		ACTIVE	IMP		2	to	X	A
 1014	V	6	1		FUT	S		3		ACTIVE	IMP		2	to	X	A
@@ -609,7 +606,6 @@ infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl
 1094	V	7	2		PRES	S		2		ACTIVE	IMP		2	e	X	A
 1095	V	7	2		FUT	S		2		ACTIVE	IMP		2	ito	X	A
 1096	V	7	2		FUT	S		3		ACTIVE	IMP		2	ito	X	A
-1097	V	7	3		PRES	S		2		ACTIVE	IND		2		B	B
 1098	V	7	3		PRES	S		3		ACTIVE	IND		2	t	B	B
 1099	V	7	3		PRES	P		2		ACTIVE	IND		2	tis	B	B
 1100	V	7	3		PRES	S		3		ACTIVE	IND		2	tur	B	B
@@ -626,7 +622,6 @@ infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl
 1111	V	7	3		IMPF	P		2		ACTIVE	SUB		2	setis	B	B
 1112	V	7	3		IMPF	P		3		ACTIVE	SUB		2	sent	B	B
 1113	V	7	3		IMPF	S		3		ACTIVE	SUB		2	setur	B	B
-1114	V	7	3		PRES	S		2		ACTIVE	IMP		2		B	B
 1115	V	7	3		PRES	P		2		ACTIVE	IMP		2	te	B	B
 1116	V	7	3		FUT	S		2		ACTIVE	IMP		2	to	B	B
 1117	V	7	3		FUT	S		3		ACTIVE	IMP		2	to	B	B
@@ -651,5 +646,3 @@ infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl
 1136	V	8	0		PLUP	P		2		ACTIVE	SUB		3	etis	B	E
 1137	V	8	0		PLUP	P		3		ACTIVE	SUB		3	ent	B	E
 1138	V	8	0		PRES	X		0		ACTIVE	INF		2	e	B	C
-1139	V	9	8		X	X		0		X	X		1		X	A
-1140	V	9	9		X	X		0		X	X		1		X	A
