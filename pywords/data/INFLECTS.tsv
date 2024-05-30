@@ -1,3 +1,4 @@
+infl_id	infl_pos	infl_type	infl_variant	infl_case	infl_tense	infl_plurality	infl_gender	infl_person	infl_comparison	infl_voice	infl_mood	infl_numtype	infl_stem_id	infl_ending	infl_age	infl_frequency
 487	V	1	1		PRES	S		1		ACTIVE	IND		1	o	X	A
 488	V	1	1		PRES	S		2		ACTIVE	IND		2	as	X	A
 489	V	1	1		PRES	S		3		ACTIVE	IND		2	at	X	A
