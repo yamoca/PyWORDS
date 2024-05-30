@@ -1,5 +1,7 @@
 # PyWORDS
 
+### implementing sqlite database
+
 ### A Python Toolkit for Latin, Based on Whitaker's WORDS Program
 
 As a student of New Latin who is learning from classical Latin books like Wheelock's, I have been dreaming of a way to automatically process documents, lookup obscure words, collect specific words (mathematical, scientific), and generate vocab lists from arbitrarily large uploaded texts. 
